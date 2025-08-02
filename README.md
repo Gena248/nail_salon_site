@@ -22,4 +22,4 @@ This stylish, responsive website was built to highlight a local nail salon’s p
 **Description**
 This project showcases a sleek, accessible website for a local nail salon, designed to make users feel at home from the first click. Built with semantic HTML and modular CSS, the layout adapts gracefully to phones, tablets, and desktops. Visual storytelling, gradient overlays, and centered grid cards guide visitors through a curated gallery and intuitive booking flow. The site prioritizes user experience and accessibility, balancing aesthetic charm with real-world usability.
 
-[GitHub link]
+This site is in development and currently not publicly deployed. The code reflects responsive design, accessibility, and user-focused layout for a real client.
